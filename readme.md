@@ -31,7 +31,6 @@ A RESTful API for managing users, books, and reviews built with **Node.js**, **E
 🐃 routes/         # Route handlers
 🐃 middleware/     # Middleware (auth, config)
 🐃 config/         # DB config
-🐃 cert/           # SSL certificates for HTTPS
 🐃 app.js          # Main app setup
 🐃 server.js       # HTTPS server entry
 🐃 .env            # Environment variables
@@ -43,7 +42,7 @@ A RESTful API for managing users, books, and reviews built with **Node.js**, **E
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/Liko20/book-review-api.git
+git clone https://github.com/Liko20/billEasyAssignment.git
 cd billEasyAssignment
 npm install
 ```
